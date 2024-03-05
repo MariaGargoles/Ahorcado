@@ -45,7 +45,7 @@ Ahorcado/
 
 - Reportar problemas.
 - Enviar solicitudes de extracción.
-- Mejorar la documentación.
+
 
 
 ## Licencia 📄
