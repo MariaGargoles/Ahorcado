@@ -9,7 +9,8 @@ En el juego del ahorcado, el jugador debe adivinar una palabra oculta letra por 
 ## Funcionalidades 🛠️
 
 - Interfaz de línea de comandos (CLI) simple y fácil de usar.
-- Palabras aleatorias seleccionadas de una lista predefinida.(Añadiremos API proximamente con un diccionario completo de palabras, de momento solo existen 20 al azar)
+- Palabras aleatorias seleccionadas de una lista predefinida.
+  (Añadiremos API proximamente con un diccionario completo de palabras, de momento solo existen 20 al azar)
 - Seguimiento del progreso del jugador y del dibujo del ahorcado.
 
 ## Instrucciones de Uso 📝
