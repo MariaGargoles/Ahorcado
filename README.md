@@ -44,8 +44,6 @@ Ahorcado/
 ¡Siéntete libre de contribuir al proyecto! Puedes:
 
 - Reportar problemas.
-- Enviar solicitudes de extracción.
-
 
 
 ## Licencia 📄
