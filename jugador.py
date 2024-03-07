@@ -1,4 +1,5 @@
 import random
+import json
 
 class Jugador:
     @staticmethod
@@ -27,7 +28,9 @@ class Jugador:
         return huecos, errores
 
     @staticmethod
-    def seleccionar_palabra(lista_palabras):
-    # Devuelve una palabra aleatoria de la lista de palabras
-       
-        return random.choice(lista_palabras)
+    def seleccionar_palabra(archivo_palabras):
+        with open(archivo_palabras, 'r') as archivo:
+            datos = json.load(archivo)
+            palabras = datos.get('palabras', [])
+
+        return random.choice(palabras)
